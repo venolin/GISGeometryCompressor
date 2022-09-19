@@ -1,0 +1,27 @@
+c:\users\venolin naidoo\documents\visual studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\bin\Debug\GISGeometryCompressor.exe.config
+c:\users\venolin naidoo\documents\visual studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\bin\Debug\GISGeometryCompressor.exe
+c:\users\venolin naidoo\documents\visual studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\bin\Debug\GISGeometryCompressor.pdb
+c:\users\venolin naidoo\documents\visual studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.frmMain.resources
+c:\users\venolin naidoo\documents\visual studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.Properties.Resources.resources
+c:\users\venolin naidoo\documents\visual studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.csproj.GenerateResource.Cache
+c:\users\venolin naidoo\documents\visual studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.exe
+c:\users\venolin naidoo\documents\visual studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.pdb
+c:\users\venolin naidoo\documents\visual studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.csprojResolveAssemblyReference.cache
+I:\GISGeometryCompressor\GISGeometryCompressor\bin\Debug\GISGeometryCompressor.exe.config
+I:\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.exe
+I:\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.pdb
+I:\GISGeometryCompressor\GISGeometryCompressor\bin\Debug\GISGeometryCompressor.exe
+I:\GISGeometryCompressor\GISGeometryCompressor\bin\Debug\GISGeometryCompressor.pdb
+I:\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.csprojResolveAssemblyReference.cache
+I:\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.frmMain.resources
+I:\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.Properties.Resources.resources
+I:\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.csproj.GenerateResource.Cache
+C:\Users\Venolin\Documents\Visual Studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\bin\Debug\GISGeometryCompressor.exe.config
+C:\Users\Venolin\Documents\Visual Studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.exe
+C:\Users\Venolin\Documents\Visual Studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.pdb
+C:\Users\Venolin\Documents\Visual Studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\bin\Debug\GISGeometryCompressor.exe
+C:\Users\Venolin\Documents\Visual Studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\bin\Debug\GISGeometryCompressor.pdb
+C:\Users\Venolin\Documents\Visual Studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.csprojResolveAssemblyReference.cache
+C:\Users\Venolin\Documents\Visual Studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.frmMain.resources
+C:\Users\Venolin\Documents\Visual Studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.Properties.Resources.resources
+C:\Users\Venolin\Documents\Visual Studio 2015\Projects\GISGeometryCompressor\GISGeometryCompressor\obj\Debug\GISGeometryCompressor.csproj.GenerateResource.Cache
